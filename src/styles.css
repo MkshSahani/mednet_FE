@@ -1,0 +1,39 @@
+/* 
+    refer for color scheme: 
+        https://99designs.com/blog/creative-inspiration/color-combinations/
+*/
+
+.main-nav-bar {
+    background: linear-gradient(45deg, #408ec6, #7a2048);
+}
+
+.on-background-color {
+    color: white;
+    font-family: "Roboto-Bold", sans-serif;
+}
+
+.onbackground-btn{
+    border: 1px solid white;
+    border-radius: 5%;
+    background:  #1e2761;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.home-main-box {
+    background: linear-gradient(180deg, #7a2048, #408ec6);
+}
+
+.tag-line-content {
+    color: white;
+    margin-top: 30%;
+    padding-left: 5%;
+    font-size: 40pt;
+}
+
+.small-intro-text {
+    font-size: 15pt;
+    color: black
+}
